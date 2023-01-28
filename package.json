@@ -1,0 +1,17 @@
+{
+  "name": "triangulo",
+  "version": "1.0.0",
+  "description": "Verifica se três valores representam o lado de um triangulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Triangulo"
+  ],
+  "author": "Mah kito",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
